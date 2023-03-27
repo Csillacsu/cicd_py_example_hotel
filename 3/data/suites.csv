@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Mar 27 15:57:24 GMT 2023","Mon Mar 27 15:57:24 GMT 2023","33","test","test_hootel","TestHotel","","","test_open",""
-"passed","Mon Mar 27 15:57:27 GMT 2023","Mon Mar 27 15:57:28 GMT 2023","879","test","test_hootel","TestHotel","","","test_login",""
